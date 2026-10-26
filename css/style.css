@@ -1,3 +1,28 @@
+/* DAAN je mag een soort van box maken voor de weer */
+body{
+    background-image: linear-gradient(rgb(201, 196, 196),rgb(180, 178, 175),rgb(161, 213, 235),rgb(109, 183, 248),rgb(90, 151, 226),rgb(21, 190, 233));
+    font-family: 'Segoe UI';
+}
+
+
+
 span{
-    color: aqua;
+    color: rgb(56, 194, 240);
+}
+
+h2, p{
+   color: aliceblue; 
+}
+
+h4{
+  color: rgb(188, 181, 181);
+}
+
+h4 span{
+    color: rgb(48, 145, 224)
+}
+
+
+header,footer{
+    color:rgb(59, 100, 134) ;
 }
