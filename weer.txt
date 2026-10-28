@@ -1,0 +1,11 @@
+css van plek beter aanpassen (bijv als de tekst te links of te rechts zit)
+
+de weer in een box zetten?
+
+
+De weer opschrijven
+Hoofdinhoud met het weer van vandaag (temperatuur, neerslag, wind) en een korte vooruitblik voor de rest van de week.
+
+Zoek gwn wat voorbeelden op, denk aan de weer die we nu de hele maand door krijgen
+
+je eigen ideeën?

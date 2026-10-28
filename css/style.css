@@ -13,16 +13,22 @@ span{
 }
 
 h2, p{
+    font-size: 25px;
    color: aliceblue; 
 }
 
 h4{
   color: rgb(188, 181, 181);
-  font-size: larger;
+  font-size: 30px;
 }
 
 h4 span{
     color: rgb(48, 145, 224)
+}
+
+h1{
+    font-size: 35px;
+   color: aliceblue;
 }
 
 .home{
@@ -35,3 +41,4 @@ h4 span{
 header,footer{
     color:rgb(59, 100, 134) ;
 }
+
